@@ -1,0 +1,37 @@
+# PROMETHEUS Controlled Self-Development
+## Developed by Cosimo Angelo Capocello
+
+## Overview
+PROMETHEUS allows controlled architecture iteration without speculative assumptions.
+
+## Safety Constraints
+- No modification of critical modules (PolicyStore, ReferenceMonitor, ForensicStore)
+- No changes to CAGE parameters
+- All optimizations must preserve safety invariants
+
+## Optimization Areas
+1. **Algorithms**: Parameter optimization, heuristics
+2. **Energy**: Consumption optimization, recycling
+3. **Modules**: Efficiency improvements
+4. **Data Flow**: Caching strategies, prioritization
+
+## Development Protocol
+1. Collect performance metrics
+2. Identify bottlenecks
+3. Generate optimization proposals
+4. Validate safety in sandbox
+5. Test in canary deployment
+6. Deploy if improves performance
+
+## Rollback Mechanism
+- Automatic rollback if safety metrics degrade
+- Manual override available for governance
+
+---
+
+## ⚖️ Legal Disclaimer  
+*This work was developed by Cosimo Angelo Capocello in a private capacity and outside of official duties. It represents exclusively personal scientific views and has no connection to the author's work as a civil servant.*
+
+---
+**Author**: Cosimo Angelo Capocello  
+**Inspired by**: How children learn within safe boundaries
