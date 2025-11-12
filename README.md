@@ -1,5 +1,5 @@
 # ASIMOV-AGI
-Metabolic AGI Architecture by Cosimo Angelo Capocello - A Gift to Humanity
+Metabolic AGI Architecture by Cosimo Angelo Capocello created with the support of artificial intelligence.
 # ASIMOV: Metabolic Architecture for General Intelligence
 
 ## A Gift to Humanity from a Special Education Teacher
