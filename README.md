@@ -1,9 +1,6 @@
 # ASIMOV-AGI
 Metabolic AGI Architecture by Cosimo Angelo Capocello created with the support of artificial intelligence.
 # ASIMOV: Metabolic Architecture for General Intelligence
-
-## A Gift to Humanity from a Special Education Teacher
-
 **ASIMOV** (*Autonomous System for Intelligent Metabolic Operational Values*) is a complete architecture for safe, metabolic Artificial General Intelligence - developed by **Cosimo Angelo Capocello**, a special education teacher with decades of experience in human development.
 
 ## 📋 Core Principles
